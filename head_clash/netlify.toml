@@ -1,5 +1,0 @@
-# Configuración de Netlify.
-# El juego vive en la subcarpeta head_clash/, así que le decimos a Netlify que
-# publique esa carpeta como raíz del sitio (si no, da "Page not found").
-[build]
-  publish = "head_clash"
